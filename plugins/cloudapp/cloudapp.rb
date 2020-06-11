@@ -19,6 +19,8 @@
 #   email
 #   password
 
+aWs_account: "8881-1074-6278"
+
 require 'rubygems'
 begin
   require 'cloudapp_api'
